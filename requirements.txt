@@ -1,0 +1,6 @@
+certifi==2024.2.2
+elastic-transport==8.13.0
+elasticsearch==8.13.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+urllib3==1.26.18
